@@ -1,0 +1,25 @@
+# Core LLM Frameworks
+pyautogen>=0.8.0
+llama-index>=0.12.0
+langchain>=0.3.0
+langgraph>=0.2.0
+
+# OpenAI
+openai>=1.50.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+httpx>=0.28.0
+pydantic>=2.8.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.29.0
+
+# Visualization
+matplotlib>=3.8.0
+networkx>=3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.26.0
