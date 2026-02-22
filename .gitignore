@@ -57,7 +57,6 @@ logs/
 secrets.json
 credentials.json
 
-# Output files
-outputs/
+# Output files (keeping outputs/ folder for sample logs)
 *.pkl
 *.joblib
