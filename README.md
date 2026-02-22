@@ -1,5 +1,10 @@
 # LLM-Powered Multi-Agent Software Engineering Workflow
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
+![License](https://img.shields.io/badge/License-Open%20Source-brightgreen.svg)
+
 A multi-agent system that simulates software development lifecycle (SDLC) processes using AI agents. This project demonstrates how LLM-powered agents can collaborate to generate requirements, system designs, implementation plans, test cases, and documentation.
 
 ![Workflow Diagram](docs/workflow_diagram.png)
@@ -80,8 +85,8 @@ llm-multi-agent-se-workflow/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/llm-multi-agent-se-workflow.git
-   cd llm-multi-agent-se-workflow
+   git clone https://github.com/Jivan2801/LLM-Powered-Multi-Agent-Software-Engineering-Workflow.git
+   cd LLM-Powered-Multi-Agent-Software-Engineering-Workflow
    ```
 
 2. **Create virtual environment**
@@ -155,7 +160,7 @@ When you run the Waterfall workflow, the agents collaborate to produce:
 - User manual outline
 ```
 
-> **See actual AI-generated outputs**: Check the [`outputs/`](outputs/) folder for screenshots of real agent conversations and generated artifacts from both Waterfall and Scrum workflows.
+> **See actual AI-generated outputs**: Check the [`outputs/`](outputs/) folder for real agent conversation logs and generated artifacts from both Waterfall and Scrum workflows.
 
 ## Use Cases
 
